@@ -2,6 +2,8 @@
 
 > 🏆 TRAE AI 创造力大赛 · 学习工作赛道参赛作品
 
+🌐 **在线体验**：https://bai-gei123.github.io/video-copy-assistant/
+
 ## 项目简介
 
 一款面向短视频创作者的 AI 智能文案辅助工具（Web 端），专注于**深度文案拆解、风格化改写、原创灵感激发与智能文案优化**，帮助创作者解决"灵感枯竭、拆解低效、AI 生成内容同质化"三大痛点。
@@ -26,7 +28,9 @@
 直接用浏览器打开 `video-copy-assistant/index.html` 即可体验。
 
 ### 在线体验
-Demo 已打包为 ZIP 文件，下载解压后用浏览器打开即可。
+👉 **[点击立即体验](https://bai-gei123.github.io/video-copy-assistant/)**
+
+Demo 已部署到 GitHub Pages，可直接在线访问体验全部功能。
 
 ## 技术栈
 
